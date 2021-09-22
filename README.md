@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monk3ymojo
 - 👀 I’m interested in web dev and stuff
 - 🌱 I’m currently learning web dev alongside computing & IT BSc(Hons)
-- 💞️ I’m looking to collaborate on web dev and stuff (front end at the moment)
+- 💞️ I’m looking to collaborate on web dev (front end at the moment)
 - 📫 How to reach me ------ mrphi1972@gmail.com
 
 <!---
